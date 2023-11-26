@@ -39,10 +39,9 @@ module.exports = {
             },
             {
                 text: 'Repository',
-                icon: 'reco-message',
                 items: [
-                    {text: 'GitHub', link: 'https://github.com/issavior', icon: 'reco-github'},
-                    {text: 'Gitee', link: 'https://gitee.com/issavior', icon: 'reco-github'},
+                    {text: 'Gitee', link: 'https://gitee.com/issavior/savior'},
+                    {text: 'GitHub', link: 'https://github.com/issavior/savior'},
                 ]
             }
         ],
