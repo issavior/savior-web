@@ -9,11 +9,11 @@ features:
     details: 
   - title: 🍓 Retry
     details: 
-  - title: 🫐 Locker
+  - title: 🫐 Lock
     details: 
   - title: 🍇 Pipeline
     details: 
-  - title: 🥭 DomainExt
+  - title: 🥭 Ext
     details: 
   - title: 🍈 WorkFlow
     details: 

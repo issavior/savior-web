@@ -52,12 +52,13 @@ module.exports = {
                     collapsable: true,
                     children: [
                         '',
-                        'EventBus',
-                        'Retry',
-                        'Locker',
-                        'Pipeline',
-                        'DomainExt',
-                        'WorkFlow',
+                        'Component',
+                        // 'EventBus',
+                        // 'Retry',
+                        // 'Lock',
+                        // 'Pipeline',
+                        // 'Ext',
+                        // 'WorkFlow',
                     ]
                 }
             ],
