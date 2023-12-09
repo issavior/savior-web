@@ -5,7 +5,7 @@ tagline:
 actionText: Quick Start ➙
 actionLink: /guide/
 features:
-  - title: 🥑 EventBus
+  - title: 🥑 Event
     details: 
   - title: 🍓 Retry
     details: 
