@@ -5,7 +5,7 @@ tagline:
 actionText: Quick Start ➙
 actionLink: /guide/
 features:
-  - title: 🥑 Event
+  - title: 🥑 EventBus
     details: 
   - title: 🍓 Retry
     details: 
@@ -17,8 +17,6 @@ features:
     details: 
   - title: 🍈 WorkFlow
     details: 
-  - title: 🍈 Toc
-    details:
 footer: Copyright © 2023 Savior
 ---
 
