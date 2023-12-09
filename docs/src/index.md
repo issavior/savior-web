@@ -17,6 +17,8 @@ features:
     details: 
   - title: 🍈 WorkFlow
     details: 
+  - title: 🍈 Toc
+    details:
 footer: Copyright © 2023 Savior
 ---
 
